@@ -1,1 +1,1 @@
-class Add_
+class AddGradeAndBirthdateToStudents < ActiveRecord
